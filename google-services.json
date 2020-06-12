@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647383010347",
+    "firebase_url": "https://saeko-174906.firebaseio.com",
+    "project_id": "saeko-174906",
+    "storage_bucket": "saeko-174906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647383010347:android:e6fac4f28617f34a",
+        "android_client_info": {
+          "package_name": "com.kioru.saeko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647383010347-3pgnbqio23rlcb0tslroq0tut3kj8srj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQMzVsNS7ibb1hNQKp3hxpLKRb7Q0s2nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647383010347-3pgnbqio23rlcb0tslroq0tut3kj8srj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

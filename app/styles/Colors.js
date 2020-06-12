@@ -1,0 +1,37 @@
+const colors = {
+	main: 		'#2D9CDB',
+	dark: 		'#5C6C7C',
+	darkest: 	'#0C273E',
+	text: 		'#2F333D',
+	subtext: 	'#5A5C5E',
+	light: 		'#9CADC6',
+	lighter: 	'#CDD6E3',
+	lightest: 	'#EFEFEF',
+	bgColor: 	'#F8F8F8',
+	disabled: 	'#D9E1E7',
+	absent: 	'#F44336',
+	present: 	'#6FCF97',
+	white: 		'#FFFFFF',
+	white80: 	'#FFFFFF80',
+	white10: 	'#FFFFFFE5',
+	black: 		'#000000',
+	subdued: 	'#E2EBF8',
+	gray: 		'#E0E0E0',
+	highlight: 	'#1E88E5',
+	darker:     '#666666',
+	grayer: 	'#D9D9D9',
+	yellow: 	'#FF9800',
+	nav: 		'#2378A8',
+	lightBlue: 	'#91B9D0',
+	magenta: 	'#AA258C',
+	purple: 	'#6F2F8E',
+	green: 		'#17AE4B',
+	orange: 	'#FAA61B',
+	grayest: 	'#4F4F4F',
+	darkLight: 	'#E5E5E5',
+	ocean: 		'#156AB2',
+	placeholder:'#5A5C5E'
+	//: '';
+};
+
+export default colors

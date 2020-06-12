@@ -1,0 +1,14 @@
+node_modules/**/*
+.expo/*
+
+env.js
+
+npm-debug.*
+#Reactotron
+/config/ReactotronConfig.js
+*.env
+*.jks
+*.p12
+*.key
+*.mobileprovision
+.DS_Store
